@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nm+/0EYk5FcaM03U5NgtByryNpAmfRBrXsEFf0nnJgQ=",
+  "Source": "YarpSamples.GatewaySR",
+  "BasePath": "_content/YarpSamples.GatewaySR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

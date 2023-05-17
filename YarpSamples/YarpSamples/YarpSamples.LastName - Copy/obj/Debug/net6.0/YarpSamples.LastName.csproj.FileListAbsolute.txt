@@ -1,0 +1,54 @@
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\appsettings.Development.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\appsettings.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\YarpSamples.LastName.exe
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\YarpSamples.LastName.deps.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\YarpSamples.LastName.runtimeconfig.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\YarpSamples.LastName.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\YarpSamples.LastName.pdb
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.csproj.AssemblyReference.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.AssemblyInfoInputs.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.AssemblyInfo.cs
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.csproj.CoreCompileInputs.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.MvcApplicationPartsAssemblyInfo.cs
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.MvcApplicationPartsAssemblyInfo.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\staticwebassets.build.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\staticwebassets.development.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\scopedcss\bundle\YarpSamples.LastName.styles.css
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.csproj.CopyComplete
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\refint\YarpSamples.LastName.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.pdb
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\YarpSamples.LastName.genruntimeconfig.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName\obj\Debug\net6.0\ref\YarpSamples.LastName.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\appsettings.Development.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\appsettings.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\YarpSamples.LastName.exe
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\YarpSamples.LastName.deps.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\YarpSamples.LastName.runtimeconfig.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\YarpSamples.LastName.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\YarpSamples.LastName.pdb
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.csproj.AssemblyReference.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.AssemblyInfoInputs.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.AssemblyInfo.cs
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.csproj.CoreCompileInputs.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.MvcApplicationPartsAssemblyInfo.cs
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.MvcApplicationPartsAssemblyInfo.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\staticwebassets.build.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\staticwebassets.development.json
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\scopedcss\bundle\YarpSamples.LastName.styles.css
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.csproj.CopyComplete
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\refint\YarpSamples.LastName.dll
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.pdb
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\YarpSamples.LastName.genruntimeconfig.cache
+F:\Source\Samples\YarpSamples\YarpSamples.LastName - Copy\obj\Debug\net6.0\ref\YarpSamples.LastName.dll
