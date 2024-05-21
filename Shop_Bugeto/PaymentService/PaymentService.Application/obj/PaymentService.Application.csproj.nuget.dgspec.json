@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj",
+        "projectName": "PaymentService.Application",
+        "projectPath": "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Application\\PaymentService.Application.csproj",
+        "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
+        "outputPath": "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj": {
+                "projectPath": "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
+        "projectName": "PaymentService.Domain",
+        "projectPath": "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
+        "outputPath": "E:\\.Net\\Bugeto\\Microservice\\4 - ارتباط بین سرویس ها\\04-40 Payment Order in Frontend web\\Src\\PaymentService\\PaymentService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

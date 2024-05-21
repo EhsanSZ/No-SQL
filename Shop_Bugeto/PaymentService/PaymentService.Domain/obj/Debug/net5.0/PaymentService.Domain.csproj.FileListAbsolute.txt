@@ -1,0 +1,12 @@
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\bin\Debug\net5.0\PaymentService.Domain.deps.json
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\bin\Debug\net5.0\PaymentService.Domain.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\bin\Debug\net5.0\PaymentService.Domain.pdb
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.csproj.AssemblyReference.cache
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.AssemblyInfoInputs.cache
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.AssemblyInfo.cs
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.csproj.CoreCompileInputs.cache
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\refint\PaymentService.Domain.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.pdb
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Domain\obj\Debug\net5.0\ref\PaymentService.Domain.dll

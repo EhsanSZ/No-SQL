@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VxjyCir6msBX8Vx6lb+u3WuuViG51nxbeb/HZ38zZ2U=",
+  "Source": "ApiGateway.ForWeb",
+  "BasePath": "_content/ApiGateway.ForWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

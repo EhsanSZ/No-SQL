@@ -1,0 +1,17 @@
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Infrastructure.deps.json
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Infrastructure.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Infrastructure.pdb
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Application.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Domain.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Application.pdb
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Domain.pdb
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.csproj.AssemblyReference.cache
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.AssemblyInfoInputs.cache
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.AssemblyInfo.cs
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.csproj.CopyComplete
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\refint\PaymentService.Infrastructure.dll
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.pdb
+E:\.Net\Bugeto\Microservice\4 - ارتباط بین سرویس ها\04-40 Payment Order in Frontend web\Src\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\ref\PaymentService.Infrastructure.dll
